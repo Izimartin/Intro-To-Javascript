@@ -9,8 +9,7 @@
  * 3. Your poem should match the famous haiku poem
  */
 
-
+// your code goes here
 
 var haiku = "Blowing from the west\n" + "Fallen leaves gather\n" + "In the east." ;
 console.log(haiku);
-
