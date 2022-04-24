@@ -17,3 +17,8 @@
  */
  
 // your code goes here
+
+const bill = 10.25 + 3.99 + 7.15;
+const tip = 0.15 * bill;
+const total = tip + bill;
+console.log("$"+ total.toFixed(2));
