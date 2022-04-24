@@ -14,3 +14,6 @@
  */
 
 // your code goes here
+
+const thingOne="red"; var thingTwo="blue";
+console.log(thingOne + thingTwo);
